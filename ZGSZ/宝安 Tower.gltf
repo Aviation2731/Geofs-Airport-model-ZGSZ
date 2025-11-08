@@ -68,18 +68,35 @@
 		}
 	],
 	"materials":[
-		{
-			"doubleSided":true,
-			"name":"\u6750\u8d28",
-			"pbrMetallicRoughness":{
-				"baseColorTexture":{
-					"index":0
-				},
-				"metallicFactor":0,
-				"roughnessFactor":0.5
-			}
-		}
-	],
+	{
+  "name": "\u6750\u8d28",
+  "normalTexture": {
+    "index": 0
+  },
+  "occlusionTexture": {
+    "index": 1
+  },
+  "pbrMetallicRoughness": {
+    "baseColorTexture": {
+      "index": 2
+    },
+    "metallicRoughnessTexture": {
+      "index": 1
+    },
+    "baseColorFactor": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "roughnessFactor": 0.8
+  },
+  "emissiveFactor": [
+    0.01,
+    0.009,
+    0.006
+  ]
+},
 	"meshes":[
 		{
 			"name":"\u67f1\u4f53.001",
@@ -132,7 +149,7 @@
 		{
 			"mimeType":"image/png",
 			"name":"test2",
-			"uri":"test2.png"
+			"uri":"https://cdn.jsdelivr.net/gh/Aviation2731/Geofs-Airport-model-ZGSZ@latest/深圳新塔台.png"
 		}
 	],
 	"accessors":[
