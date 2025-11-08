@@ -68,35 +68,18 @@
 		}
 	],
 	"materials":[
-	{
-  "name": "\u6750\u8d28",
-  "normalTexture": {深圳新塔台.png
-    "index": 0
-  },
-  "occlusionTexture": {
-    "index": 1
-  },
-  "pbrMetallicRoughness": {
-    "baseColorTexture": {
-      "index": 2
-    },
-    "metallicRoughnessTexture": {
-      "index": 1
-    },
-    "baseColorFactor": [
-      1.0,
-      1.0,
-      1.0,
-      1.0
-    ],
-    "roughnessFactor": 0.8
-  },
-  "emissiveFactor": [
-    0.01,
-    0.009,
-    0.006
-  ]
-},
+		{
+			"doubleSided":true,
+			"name":"\u6750\u8d28",
+			"pbrMetallicRoughness":{
+				"baseColorTexture":{
+					"index":0
+				},
+				"metallicFactor":0,
+				"roughnessFactor":0.5
+			}
+		}
+	],
 	"meshes":[
 		{
 			"name":"\u67f1\u4f53.001",
