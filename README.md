@@ -5,3 +5,7 @@
 
 插件请访问以下网址
 Please visit https://github.com/greenairways/GeoFS-OSM-Airport-Models
+
+模型贡献/Models contruibutor:
+--Aviation2731(Bilibili@两拐三幺_Sparrow)
+--Bilibili@玄猫栖桦
