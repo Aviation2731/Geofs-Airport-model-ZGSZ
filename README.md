@@ -14,3 +14,6 @@ Please visit https://github.com/greenairways/GeoFS-OSM-Airport-Models
 --Aviation2731(Bilibili@两拐三幺_Sparrow)
 
 --Bilibili@玄猫栖桦
+
+--Notinseverarea(Bilibili@-不在服务区-）
+
