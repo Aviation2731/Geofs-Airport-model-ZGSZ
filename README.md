@@ -10,7 +10,7 @@
 Please visit https://github.com/greenairways/GeoFS-OSM-Airport-Models
 
 
-模型贡献/Models contruibutor:
+贡献名单/Contruibutor:
 
 --Aviation2731(Bilibili@两拐三幺_Sparrow)
 
