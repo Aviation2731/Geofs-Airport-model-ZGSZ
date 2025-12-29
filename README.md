@@ -3,7 +3,7 @@
 基于OSM建筑插件/Basic on OSM airports buildings addon
 ---------------------------------------------------------------------
 插件请访问以下网址/Addon link
-Please visit https://github.com/greenairways/GeoFS-OSM-Airport-Models
+https://github.com/greenairways/GeoFS-OSM-Airport-Models
 
 
 优化GeoFS中的深圳宝安国际机场建模 / improved the models of Shenzhen Bao'an Airport in GeoFS
