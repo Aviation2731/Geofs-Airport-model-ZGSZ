@@ -1,4 +1,3 @@
-# Geofs-Airport-model-ZGSZ
 
 基于OSM建筑插件/Basic on OSM airports buildings addon
 ---------------------------------------------------------------------
