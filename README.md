@@ -10,7 +10,7 @@ https://github.com/greenairways/GeoFS-OSM-Airport-Models
 
 该建模已上传至OSM-Airports-Models插件 / These models has been uploaded to the "OSM-Airports-Models" addon
 
-
+廊桥使用说明请查看Jetbridge Instuctions.md/Jetbridge Instructions please view"Jetbridge Instructions.md"
 
 贡献者/Contruibutors:
 ---
