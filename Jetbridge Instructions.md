@@ -1,4 +1,4 @@
-ZGSZ/SZX  Jetbridges Instructions
+廊桥使用说明/Jetbridges Instructions
 ---------------------------------
 
 For low height plane (Like A320 Family/B737 Series/C919):
